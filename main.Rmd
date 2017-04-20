@@ -1,0 +1,8 @@
+---
+title: "Data cleaning and preparation 1"
+output: html_notebook
+---
+
+This is a file dedicated to show our aproach to preparate data before any analysis.
+
+In this first project we are dealing with a kaggle's database: [name](http://address.com)
